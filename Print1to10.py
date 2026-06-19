@@ -1,4 +1,4 @@
-def print1to10(n):
+edef print1to10(n):
     if (n>10):
         return
     
